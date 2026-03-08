@@ -277,3 +277,30 @@ The International Arctic Forum 2025 in Murmansk facilitated discussions on econo
 - [US, Russia Mull Cooperation on Arctic Trade Routes, Exploration - Bloomberg](https://www.bloomberg.com/news/articles/2025-02-26/us-russia-mull-cooperation-on-arctic-trade-routes-exploration)
 - [The International Arctic Forum 2025 has started in Murmansk](https://forumarctica.ru/en/news/v-murmanske-startoval-mezhdunarodnyj-arkticheskij-forum-2025/)
 - [XIII INTERNATIONAL FORUM "ARCTIC: TODAY AND THE FUTURE"](https://www.forumarctic.com/eng/conf2023/)
+
+Here are the most relevant high-resolution maps and resources for Canada’s LNG projects (primarily export-focused liquefaction facilities and related infrastructure), based on current data as of March 2026. Canada’s active and proposed LNG developments are concentrated on the west coast of British Columbia (BC), fed by natural gas from the Western Canada Sedimentary Basin (e.g., Montney, Horn River plays). There are no large-scale operational or advanced LNG export projects in the Arctic regions (Yukon, Northwest Territories, Nunavut), though some smaller-scale or conceptual potential exists for local use or future development (e.g., Inuvialuit Energy Security Project for domestic supply in the Beaufort Delta area). Arctic natural gas resources are vast but remain largely undeveloped due to logistics, economics, and environmental/regulatory challenges.
+Key LNG Projects in Canada (Mainly BC West Coast)
+	•	Operational: LNG Canada (Phase 1, Kitimat, BC – first exports started mid-2025; now ramping up).
+	•	Under Construction: Woodfibre LNG (Squamish area), Cedar LNG (Kitimat area, floating facility).
+	•	Advanced/Proposed: Ksi Lisims LNG (Pearse Island/Nass area), Tilbury LNG (Phase 2, Delta area), LNG Canada Phase 2, Summit Lake PG LNG (near Prince George), others in earlier stages.
+These are mostly clustered around Kitimat/Prince Rupert for Pacific export access.
+Recommended High-Resolution Maps and PDFs
+	1	CER (Canada Energy Regulator) Map – Upcoming and Proposed LNG Facilities in Western Canada
+	◦	Direct high-resolution PDF download: https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2024/images/market-snapshot-exploring-canadas-future-in-lng-exports-figure-02.pdf (1,580 KB, produced August 2024; still the authoritative overview as of 2026).
+	◦	Shows approximate locations of: LNG Canada, Woodfibre LNG, Cedar LNG, Ksi Lisims LNG, Tilbury LNG.
+	◦	Includes pipelines like Coastal GasLink, Eagle Mountain–Woodfibre, Prince Rupert Gas Transmission.
+	◦	Clear, labeled, national/regional scale with provincial boundaries – ideal for overview.
+	2	CAPP (Canadian Association of Petroleum Producers) – Canadian Oil and Gas Export Infrastructure Map
+	◦	Latest PDFs: October 2025 version or February 2026 update (https://www.capp.ca/wp-content/uploads/2026/02/Canadian-Oil-and-Gas-Export-Infrastructure-February-18-2026.pdf).
+	◦	Detailed map on page ~27 showing LNG facilities (operational, under construction, proposed), pipelines, and basins (e.g., Montney, Horn River, Liard, Duvernay).
+	◦	High detail on BC west coast projects, export capacities, and infrastructure status.
+	3	Interactive/Zoomable Options (for higher effective resolution via zoom):
+	◦	CER Interactive Pipeline Map: https://www.cer-rec.gc.ca/en/safety-environment/industry-performance/interactive-pipeline – Covers federally regulated pipelines (including those feeding LNG), incidents, and can overlay LNG-related features. Export data or zoom for high-res detail.
+	◦	TC Energy Operations Map: https://www.tcenergy.com/siteassets/pdfs/operations/operations-maps/tc-operations-map-2025.pdf (2026 updates available on site) – Shows Coastal GasLink and other pipelines linked to LNG Canada.
+Arctic LNG Potential
+	•	No dedicated high-resolution public maps exist for large-scale Arctic LNG export projects, as none are advanced (focus remains on conventional basins in western/southern Canada).
+	•	Potential is theoretical in areas like the Beaufort-Mackenzie Basin or Sverdrup Basin (high Arctic islands), with vast untapped gas reserves, but no liquefaction/export terminals proposed at scale.
+	•	For broader Canadian natural gas basins (including northern/Arctic potential): See older Atlas of Canada maps or reports like https://www.innovation.ca/sites/default/files/Rome2013/files/crude_oil_natural_gas_resources_map_0.pdf (shows sedimentary basins, including northern ones).
+	•	Small/local concepts (e.g., Inuvialuit project near Inuvik/Tuktoyaktuk) are not mapped at high res publicly.
+These PDFs are the closest to “high resolution” available from official/government sources. If you need more specific details on a project (e.g., zooming into Kitimat area), a description of any map’s contents, or help with interactive overlays, just let me know!
+
